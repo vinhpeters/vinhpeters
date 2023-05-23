@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinh Peters</h1>
+<h3 align='center'>Full-stack Developer, ML Practitioner. Mechanical Engineer & BBQ Enthusiast</h3>
 👨‍💻 View my projects at [https://vinhpeters.com](https://vinhpeters.com)
 
 📄 Know about my experiences [https://vinhpeters.com/docs/vinhpeters_resume.pdf](https://vinhpeters.com/docs/vinhpeters_resume.pdf)
