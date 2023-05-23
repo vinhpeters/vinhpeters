@@ -5,6 +5,8 @@
 
 📄 Know about my experiences [vinhpeters.com/docs/vinhpeters_resume.pdf](vinhpeters.com/docs/vinhpeters_resume.pdf)
 
+📷 I also take pretty pictures [vinhpeters.myportfolio.com](https://vinhpeters.myportfolio.com/work)
+
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/vinh-peters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinh-peters" height="30" width="40" /></a>
