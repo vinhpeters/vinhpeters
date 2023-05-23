@@ -3,7 +3,7 @@
 
 👨‍💻 View my projects at [vinhpeters.com](https://vinhpeters.com)
 
-📄 Know about my experiences [vinhpeters.com/docs/vinhpeters_resume.pdf](vinhpeters.com/docs/vinhpeters_resume.pdf)
+📄 Learn about my experience [vinhpeters.com/docs/vinhpeters_resume.pdf](vinhpeters.com/docs/vinhpeters_resume.pdf)
 
 📷 I also take pretty pictures [vinhpeters.myportfolio.com](https://vinhpeters.myportfolio.com/work)
 
