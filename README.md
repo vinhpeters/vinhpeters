@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinh Peters</h1>
+<h1 align="center">Hi, I'm Vinh Peters 🛶 </h1>
 <h3 align='center'>Full-Stack Developer, ML Practitioner, Mechanical Engineer & BBQ Enthusiast</h3>
 
 👨‍💻 View my projects at [vinhpeters.com](https://vinhpeters.com)
